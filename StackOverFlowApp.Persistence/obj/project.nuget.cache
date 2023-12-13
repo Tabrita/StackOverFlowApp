@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "wdrfRBNVXzWJ+i4ADPVcliNj7NZ9GUuER5ID2bLP8u7Cz/iJ/oUWn4WQkDVoHBYk5xm0PoCQt6RKk1gRdk1IGw==",
+  "dgSpecHash": "rE+bSSGiz/IdfWXwQZv//kJkqFfLpa3WuTzEcD0kx6SkMleMewCJBDKr3/8FN81X0lU84xXKPexaX2kHxfx7Hg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ASUS VivoBook 15\\Documents\\VS Code\\Projects\\MVC\\StackOverFlowApp\\StackOverFlowApp.Persistence\\StackOverFlowApp.Persistence.csproj",
+  "projectFilePath": "C:\\Users\\ASUS VivoBook 15\\Documents\\VS Code\\Projects\\MVC\\StackOverFlowApp\\stackoverflowapp.persistence\\StackOverFlowApp.Persistence.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ASUS VivoBook 15\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\ASUS VivoBook 15\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",

@@ -8,4 +8,4 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = StackOverFlowApp.Persistence
-build_property.ProjectDir = C:\Users\ASUS VivoBook 15\Documents\VS Code\Projects\MVC\StackOverFlowApp\StackOverFlowApp.Persistence\
+build_property.ProjectDir = C:\Users\ASUS VivoBook 15\Documents\VS Code\Projects\MVC\StackOverFlowApp\stackoverflowapp.persistence\

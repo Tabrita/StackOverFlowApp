@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "N1K87BVVgPggBflAxKmx/17p1gQMVelgpMW57YnlSXhOKNw4b6+Vy+jU6kS8VZQx/L3XJBhpRZihLTF5HQ2ZkQ==",
+  "dgSpecHash": "Pte+GvqA/ievLPJa7IYhAr6w0nl2pAVJaCdOzkD5ITUnT2Yjj6DdkDpHCW3YlViq/iy5n4gi5O/7tT2vcTpF+A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ASUS VivoBook 15\\Documents\\VS Code\\Projects\\MVC\\StackOverFlowApp\\StackOverFlowApp.Application\\StackOverFlowApp.Application.csproj",
+  "projectFilePath": "C:\\Users\\ASUS VivoBook 15\\Documents\\VS Code\\Projects\\MVC\\StackOverFlowApp\\stackoverflowapp.application\\StackOverFlowApp.Application.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

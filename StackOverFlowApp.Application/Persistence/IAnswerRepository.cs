@@ -10,7 +10,7 @@ namespace StackOverFlowApp.Application.Persistence
     {
         void InsertAnswer(Answer answer);
         void UpdateAnswer(Answer answer);
-        void UpdateAnswerVotesCount(int answerId, int value);
+        void UpdateAnswerVotesCount(int answerId, int userId, int value);
         void DeleteAnswer(int answerId);
         Task<IEnumerable<Answer>> GetAnswersByQuestionId(int questionId);
         Task<Answer> GetAnswerById(int answerId);
